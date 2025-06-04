@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnrosik" alt="johnrosik" /></a> </p>
 
-- 🔭 I’m currently working on a personal project that makes possibly to connect and interact with Table RPG playes around the world. **Lushamm**
+- 🔭 Currently working on a personal project that makes possibly to connect and interact with Table RPG playes around the world. **Lushamm**
 
-- 🌱 I’m currently learning **React, Typescript & Backend Developing**
+- 🌱 Learning now **React, Typescript & Backend Developing**
 
-- 📫 How to reach me **contato.rosiak@gmail.com**
+- 📫 Contact-me At **contato.rosiak@gmail.com**
 
 - 📄 Look at me on LinkedIn [https://www.linkedin.com/in/joaorosiak/](https://www.linkedin.com/in/joaorosiak/)
 
