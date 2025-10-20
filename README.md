@@ -5,7 +5,7 @@
 
 - 🌱 Learning now **React, Typescript & Backend Developing**
 
-- 📑 Look at my portfolio <a href="https://johnrosik.github.io">Meu portfólio</a>
+- 📑 Look at <a href="https://johnrosik.github.io">MY PORTFOLIO</a>
   
 - 📫 Contact-me At **contato.rosiak@gmail.com**
 
