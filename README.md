@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Vitor Rosiak</h1>
-<h3 align="center">A 3th Period in Bachelor Computer Science Student, Look for jobs and a passion for creating things.</h3>
-
-- 🔭 Currently working on a personal project that makes possibly to connect and interact with Table RPG playes around the world. **Lushamm**
-
-- 🌱 Learning now **React, Typescript & Backend Developing**
+<h3 align="center">A 5th Period in Bachelor Computer Science Student, Look for jobs and a passion for creating things.</h3>
 
 - 📑 Look at <a href="https://johnrosik.github.io">MY PORTFOLIO</a>
   
